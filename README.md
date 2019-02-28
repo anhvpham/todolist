@@ -22,7 +22,7 @@ http PUT https://todolist-8xphb9f43.now.sh/api/update < updateToDo.json
 <br>
 4. DELETE METHOD
 <br>
-http DELETE https://todolist-8xphb9f43.now.sh/api/delete <deleteToDo.json
+http DELETE https://todolist-8xphb9f43.now.sh/api/delete < deleteToDo.json
 <br>
 <br>
 DATABASE file is in sql folder
